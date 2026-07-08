@@ -4,3 +4,4 @@ venv/
 temp/
 *.db
 *.sqlite
+.idea/
